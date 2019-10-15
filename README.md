@@ -1,6 +1,8 @@
 # logo
 Logo of Wetware
 
-![logo](Wetware3.png)
+## transparent
+![transparent logo](Wetware3.png)
 
-![logo](Wetware3w.png)
+## white
+![white logo](Wetware3w.png)
